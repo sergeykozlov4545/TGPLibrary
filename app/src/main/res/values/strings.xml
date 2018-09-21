@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TGPLibrary</string>
+
+    <string name="mainActivityTitle">Запрошенные данные</string>
+
+    <string name="personalDetails">Персональные данные</string>
+    <string name="firstName">Имя (Латиница):</string>
+    <string name="lastName">Фамилия (Латиница):</string>
+    <string name="firstNameNative">Имя:</string>
+    <string name="lastNameNative">Фамилия:</string>
+    <string name="gender">Пол:</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+
+    <string name="address">Адрес</string>
+    <string name="firstStreetLine">Улица:</string>
+    <string name="secondStreetLine">Дом:</string>
+    <string name="city">Город:</string>
+    <string name="state">Область:</string>
+    <string name="postCode">Почтовый индекс:</string>
+    <string name="countryCode">Код страны:</string>
+
+    <string name="contactData">Контактные данные</string>
+    <string name="phoneNumber">Номер телефона</string>
+    <string name="phoneNumberLabel">Номер телефона:</string>
+    <string name="email">email</string>
+    <string name="emailLabel">email:</string>
+
+
+    <string name="requestPassportData">Запросить данные</string>
+
+    <string name="Ok">OK</string>
+    <string name="Cancel">Отмена</string>
+
+    <string name="TelegramInstallDialogMessage">Чтобы авторизоваться в **%s**, требуется Telegram. Хотите установить его сейчас?</string>
+    <string name="OpenGooglePlay">Открыть Google Play</string>
+
+</resources>
